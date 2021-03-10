@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/GPUFS/sysu_hpcedu_302/luowle/tem/CUDA-learn/Calculate_2D_entropy/sources/src/samples.cpp
+samples.h
+/GPUFS/sysu_hpcedu_302/luowle/tem/CUDA-learn/Calculate_2D_entropy/sources/src/samples.h
+
+/GPUFS/sysu_hpcedu_302/luowle/tem/CUDA-learn/Calculate_2D_entropy/sources/src/samples.h
+stdio.h
+-
+stdlib.h
+-
+
